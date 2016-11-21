@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# CodingKatas
+Main Repository for Coding Katas
