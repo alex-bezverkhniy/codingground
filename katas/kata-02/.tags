@@ -1,0 +1,23 @@
+BinarySearch	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^public class BinarySearch {$/;"	class	line:4
+chop	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static int chop(Integer elem, Integer[] array) {$/;"	method	line:6	class:BinarySearch	signature:(Integer elem, Integer[] array)
+chop2	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static int chop2(Integer elem, Integer[] array) {$/;"	method	line:15	class:BinarySearch	signature:(Integer elem, Integer[] array)
+chop3	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static int chop3(Integer elem, Integer[] array) {$/;"	method	line:27	class:BinarySearch	signature:(Integer elem, Integer[] array)
+test	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static void test(Integer[] array, BiFunction<Integer, Integer[], Integer> f) {$/;"	method	line:39	class:BinarySearch	signature:(Integer[] array, BiFunction<Integer, Integer[], Integer> f)
+assertIt	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static void assertIt(Integer expected, Integer result) {$/;"	method	line:45	class:BinarySearch	signature:(Integer expected, Integer result)
+main	/Users/a1201939/code/my/java/katas/kata-02/BinarySearch.java	/^  public static void main(String[] args) {$/;"	method	line:50	class:BinarySearch	signature:(String[] args)
+ReverseString	/Users/a1201939/code/my/java/katas/kata-02/ReverseString.java	/^class ReverseString {$/;"	class	line:1
+reverse	/Users/a1201939/code/my/java/katas/kata-02/ReverseString.java	/^  public static String reverse(String src) {$/;"	method	line:3	class:ReverseString	signature:(String src)
+reverse2	/Users/a1201939/code/my/java/katas/kata-02/ReverseString.java	/^  public static String reverse2(String src) {$/;"	method	line:15	class:ReverseString	signature:(String src)
+main	/Users/a1201939/code/my/java/katas/kata-02/ReverseString.java	/^  public static void main(String[] args) {$/;"	method	line:28	class:ReverseString	signature:(String[] args)
+LinkedList	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^class LinkedList {$/;"	class	line:1
+Node	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  class Node {$/;"	class	line:2	class:LinkedList
+Node	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^    public Node(Object data, Node next) {$/;"	method	line:3	class:LinkedList.Node	signature:(Object data, Node next)
+data	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^    public Object data;$/;"	field	line:7	class:LinkedList.Node
+next	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^    public Node next;$/;"	field	line:8	class:LinkedList.Node
+head	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  private Node head;$/;"	field	line:11	class:LinkedList	file:
+LinkedList	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public LinkedList(Object data) {$/;"	method	line:13	class:LinkedList	signature:(Object data)
+insert	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public void insert(Object data) {$/;"	method	line:17	class:LinkedList	signature:(Object data)
+delete	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public boolean delete(Object data) {$/;"	method	line:22	class:LinkedList	signature:(Object data)
+search	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public Node search(Object data) {$/;"	method	line:40	class:LinkedList	signature:(Object data)
+display	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public void display() {$/;"	method	line:51	class:LinkedList	signature:()
+main	/Users/a1201939/code/my/java/katas/kata-02/LinkedList.java	/^  public static void main(String[] args) {$/;"	method	line:61	class:LinkedList	signature:(String[] args)
